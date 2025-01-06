@@ -74,8 +74,9 @@ header > h2{
     font-family: 'clone-thin';
     text-align: center;
     font-size: 27px;
-    margin-top: -20px;
     min-width: 258px;
+    margin-top: -20px;
+
     border-right: 5px;
     border-left: 5px;
 }
